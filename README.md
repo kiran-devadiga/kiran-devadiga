@@ -1,69 +1,175 @@
-# 👋 Hi, I'm Kiran Krishna Devadiga  
+# 👋 Hi, I'm Kiran Krishna Devadiga
 
-🎓 BBA CA Student | 💻 Aspiring Network & Cloud Engineer | 🌐 Tech Enthusiast  
+💻 **Technical Support Engineer | Networking & Cloud Enthusiast | BBA CA Graduate**
 
----
+I’m a Technical Support Engineer with hands-on experience in **technical troubleshooting, Dell TechDirect case analysis, SFDC, networking, Windows support, and IT infrastructure**.
 
-## 🚀 About Me  
-Motivated and technically skilled IT graduate with strong knowledge in **Computer Networking, Cloud Computing, and Hardware Troubleshooting**.  
-I enjoy solving technical problems, building scalable solutions, and continuously learning new technologies.  
+I'm currently expanding my skills in **AWS Cloud, Networking, SQL, Power BI, Python, and Linux**, with the goal of growing into a **Cloud, Network, or Data/IT Infrastructure role**.
 
 ---
 
-## 🎯 Career Objective  
-To start a career in **Networking or Cloud Administration**, bringing problem-solving skills, adaptability, and a strong interest in IT infrastructure and support.  
+## 🚀 About Me
+
+* 💼 Technical Support Engineer with **1.4+ years of professional experience**
+* 🖥️ Experienced in technical troubleshooting and support operations
+* 🔧 Hands-on experience with **Dell TechDirect (DTD)** and **Salesforce (SFDC)**
+* 🌐 Interested in **Networking, Cloud Computing, and IT Infrastructure**
+* ☁️ Currently learning **AWS, Linux, S3, IAM, VPC & CloudWatch**
+* 📊 Developing skills in **SQL, Power BI, Excel & Python**
+* 🎓 **BBA CA Graduate – Savitribai Phule Pune University**
 
 ---
 
-## 📚 Education  
-- **BBA CA** – Savitribai Phule Pune University (2025)  
-- **HSC** – ASM’s Geetamata English Jr. College (2021)  
-- **SSC** – New English School (2019)  
+## 🛠️ Technical Skills
+
+### 💻 Technical Support
+
+* Dell TechDirect (DTD)
+* Salesforce (SFDC)
+* Technical Case Analysis
+* Hardware Troubleshooting
+* Windows 10/11
+* Remote Troubleshooting
+* Device & Peripheral Support
+* Incident & Ticket Handling
+
+### 🌐 Networking
+
+* IPv4 / IPv6
+* Subnetting
+* TCP/IP & OSI Model
+* DHCP & DNS
+* VLAN
+* Routing & Switching
+* NAT / PAT
+* ACL
+* Basic Firewall Concepts
+* Cisco Packet Tracer
+* Wireshark
+
+### ☁️ Cloud & Linux
+
+* AWS EC2
+* Security Groups
+* S3
+* IAM
+* VPC
+* CloudWatch
+* Application Load Balancer
+* Linux Fundamentals
+
+### 📊 Data & Productivity
+
+* SQL / MySQL
+* Power BI
+* Microsoft Excel
+* Python – Basics
+* Microsoft 365
+* Outlook
+* Teams
+* OneDrive
+
+### 🔧 Tools
+
+* Cisco Packet Tracer
+* Wireshark
+* TeamViewer
+* RMM Tools
+* Dell SupportAssist
+* Device Manager
 
 ---
 
-## 🛠️ Technical Skills  
-- **Networking & CCNA**: IPv4/IPv6, Subnetting, Routing & Switching, NAT, PAT, DHCP, DNS, ACLs, OSI/TCP-IP, Cisco Router & Switch Configuration, Network Security  
-- **Operating Systems**: Windows Installation, User & Disk Management, File Sharing, Printer Setup, System Restore, Windows Updates  
-- **Cloud**: AWS (EC2, Load Balancer, Security Groups)  
-- **Microsoft 365**: Outlook, Word, Excel, PowerPoint, OneDrive, Teams, User Management  
-- **Hardware**: PC Assembly/Disassembly, BIOS Setup, RAM/HDD/SMPS Installation, Printer & Peripheral Setup  
-- **Tools**: Cisco Packet Tracer, Wireshark, SupportAssist, Device Manager  
+## 📂 Projects
+
+### 🔹 AWS EC2 + Application Load Balancer
+
+Built an AWS infrastructure project using multiple EC2 instances and an Application Load Balancer to distribute incoming traffic between servers.
+
+**Technologies:** AWS EC2, ALB, Security Groups
 
 ---
 
-## 📂 Projects  
-### 🔹 AWS Load Balancing Project  
-Built a cloud project with **AWS EC2 instances** and an **Application Load Balancer (ALB)** to distribute traffic evenly and improve server performance.  
+### 🔹 Network VLAN & Router-on-a-Stick Lab
 
-### 🔹 Gym Management System  
-Developed a **web-based Gym Management System** using **Python, Java, and MySQL** for managing members, trainers, subscription fees, and attendance.  
+Created a network lab using Cisco Packet Tracer with multiple VLANs and router-on-a-stick configuration for inter-VLAN communication.
 
----
-
-## 📜 Certifications  
-- **Ethical Hacking – Beginner Level**: Learned about cyberattacks, network security, and hacking concepts.  
+**Technologies:** Cisco Packet Tracer, VLAN, 802.1Q, Routing
 
 ---
 
-## 💡 Strengths  
-✔️ Quick learner & adaptable  
-✔️ Strong interest in Networking & IT  
-✔️ Confident in technical support & troubleshooting  
+### 🔹 Gym Management System
+
+Developed a web-based Gym Management System for managing members, trainers, subscriptions, and attendance.
+
+**Technologies:** Python, Java, MySQL
 
 ---
 
-## 🎶 Interests  
-- 🥁 Playing in a **Maharashtrian Dhol-Tasha Pathak**  
-- 🏍️ Long-distance motorbike riding & travel  
+## 📚 Education
+
+🎓 **BBA – Computer Applications (BBA CA)**
+Savitribai Phule Pune University — 2025
+
+📘 **HSC**
+ASM's Geetamata English Jr. College — 2021
+
+📘 **SSC**
+New English School — 2019
 
 ---
 
-## 📬 Contact Me  
-- 📧 Email: [kirandevadiga500@gmail.com](mailto:kirandevadiga500@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/KiranDevadiga](https://linkedin.com/in/KiranDevadiga)  
-- 📍 Location: Pune, India  
+## 📜 Certifications
+
+* Ethical Hacking – Beginner Level
+* Networking / CCNA Fundamentals
 
 ---
 
-⭐️ _“Always learning, always growing – technology inspires me to move forward.”_  
+## 🌱 Currently Learning
+
+```text
+AWS Cloud
+Linux
+Networking
+SQL
+Power BI
+Python
+Cloud Infrastructure
+```
+
+---
+
+## 🎯 Career Interests
+
+I'm interested in opportunities related to:
+
+* Technical Support Engineer
+* Network Support / Network Engineer
+* Cloud Support Engineer
+* IT Infrastructure
+* NOC Engineer
+* Junior Cloud Engineer
+* Data / SQL-related roles
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** [kirandevadiga500@gmail.com](mailto:kirandevadiga500@gmail.com)
+
+🔗 **LinkedIn:** [Kiran Devadiga](https://linkedin.com/in/KiranDevadiga)
+
+📍 Pune, India
+
+---
+
+## ⚡ Fun Facts
+
+🏍️ Long-distance motorcycle riding
+🥁 Dhol-Tasha enthusiast
+💻 Always learning new technology
+
+---
+
+⭐ **Learning. Building. Troubleshooting. Growing.**
